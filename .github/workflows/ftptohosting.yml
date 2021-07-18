@@ -11,8 +11,6 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.1.0
       with:
-          server: sl233.web.hostpoint.ch
-          username:: github@modularbeit.ch
-          password: githubABBTS2021
-            dry-run:true
-
+        server: sl233.web.hostpoint.ch
+        username: github@modularbeit.ch
+        password: githubABBTS2021
