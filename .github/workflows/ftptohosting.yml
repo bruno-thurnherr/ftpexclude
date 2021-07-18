@@ -15,7 +15,6 @@ jobs:
         user: github@modularbeit.ch
         password: githubABBTS2021
         exclude:
-          - **/node_modules/**
           - **/.git*
           - **/.userspice*/**
           - **/node_modules/**
