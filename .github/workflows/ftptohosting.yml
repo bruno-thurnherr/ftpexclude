@@ -16,6 +16,7 @@ jobs:
         password: githubABBTS2021
           exclude:
             - **/.git*
+             - **/userspice*
             - **/.git*/**
             - **/node_modules/**
             - fileToExclude.txt
