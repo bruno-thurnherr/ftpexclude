@@ -3,13 +3,12 @@
 
  Verzeichnis von C:\xampp\htdocs\modularbeitftp
 
-18.07.2021  07:32    <DIR>          .
-18.07.2021  07:32    <DIR>          ..
+18.07.2021  07:39    <DIR>          .
+18.07.2021  07:39    <DIR>          ..
 30.06.2021  19:41               104 index.html
 18.07.2021  06:20    <DIR>          lernplattform
-18.07.2021  07:32                 0 tex2t.txt
+18.07.2021  07:42                 0 tex2t.txt
 18.07.2021  07:28               561 text.txt
-18.07.2021  07:28               515 text1.txt
 18.07.2021  06:20    <DIR>          userspice
-               4 Datei(en),          1'180 Bytes
-               4 Verzeichnis(se), 13'170'655'232 Bytes frei
+               3 Datei(en),            665 Bytes
+               4 Verzeichnis(se), 13'161'381'888 Bytes frei
