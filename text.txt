@@ -1,0 +1,13 @@
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 8C44-0654
+
+ Verzeichnis von C:\xampp\htdocs\modularbeitftp
+
+18.07.2021  07:01    <DIR>          .
+18.07.2021  07:01    <DIR>          ..
+30.06.2021  19:41               104 index.html
+18.07.2021  06:20    <DIR>          lernplattform
+18.07.2021  07:01                 0 text.txt
+18.07.2021  06:20    <DIR>          userspice
+               2 Datei(en),            104 Bytes
+               4 Verzeichnis(se), 13'157'150'720 Bytes frei
