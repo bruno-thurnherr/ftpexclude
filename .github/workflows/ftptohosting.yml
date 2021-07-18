@@ -14,5 +14,3 @@ jobs:
         host: sl233.web.hostpoint.ch
         user: github@modularbeit.ch
         password: githubABBTS2021
-  	exlude: 
-       - '- **/userspice*' 
