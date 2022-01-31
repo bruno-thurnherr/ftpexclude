@@ -1,9 +1,7 @@
 # ftpexclude
 FTP Exclude Test
 
-
 ![netzwahl_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/82406567/151697950-d0454a0b-fe90-48f2-be41-02224cef7138.gif)
-
 
 ![Visitor Count](https://profile-counter.glitch.me/{counter}/count.svg)
 
@@ -23,19 +21,13 @@ graph TD;
   A-->C;
   B-->D;
   C-->D;
-
-
+![ms](https://user-images.githubusercontent.com/82406567/151883622-7e02a71d-baa7-43e1-86fb-95060367b9dd.svg)
 
 [```![ad](https://user-images.githubusercontent.com/82406567/151883376-e6031e4b-b735-4a33-ac3d-cd34e233e610.svg)](https://katherinempeterson.com/)
 
 
 
-
 [![](https://img.shields.io/badge/%20to%20top-%E2%86%A9-blue)](#shortcuts)
-
 ---
-
 ```
-
-
 ***
