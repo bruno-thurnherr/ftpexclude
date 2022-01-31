@@ -24,3 +24,14 @@ graph TD;
   B-->D;
   C-->D;
 ```
+
+[![](https://img.shields.io/badge/%20to%20top-%E2%86%A9-blue)](#shortcuts)
+
+---
+
+```
+
+
+***
+
+
