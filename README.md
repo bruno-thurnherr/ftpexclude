@@ -1,7 +1,7 @@
 # ftpexclude
 FTP Exclude Test
 
-<a href="https://wlandetektor.it-wissen.ch"><img src="https://user-images.githubusercontent.com/82406567/151886548-c80faf3c-e338-4b98-8e8f-5599571fcb72.svg" width="90" align="Right" /></a>
+<a href="https://wlandetektor.it-wissen.ch"><img src="https://user-images.githubusercontent.com/82406567/151886548-c80faf3c-e338-4b98-8e8f-5599571fcb72.svg" width="90" align="left" />German</a>
 
 
 
